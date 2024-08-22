@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning more advanced mathematical concepts and exploring the fields of data science and AI.
-- 💬 AAsk me about: Mathematics, Data Science, AI, or anything related to my learning journey!
+- 💬 Ask me about: Mathematics, Data Science, AI, or anything related to my learning journey!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eleni-lazaridou/)
-- 🔭 My Skills: Strong analytical and logical reasoning, a passion for learning, and a dedication to pursuing a PhD in these fascinating fields.
+- 🔭 My Skills: Strong analytical and logical reasoning skills, a passion for learning, and a dedication to pursuing a PhD in fascinating fields.
 
 
 <!--
